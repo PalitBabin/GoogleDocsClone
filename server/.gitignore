@@ -133,3 +133,4 @@ dist
 
 #Secret Files
 config.js
+.vercel
